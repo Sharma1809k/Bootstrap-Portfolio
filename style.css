@@ -1,0 +1,56 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.jumbotron {
+    width: 100%;
+margin-left: 150px;
+margin-top: 150px;
+font-size: 14px;
+overflow: auto;
+}
+.jumbotron h2 {
+    color: #4aaaa5;
+    font-weight: 800;
+}
+.main-picture {
+    float:left;
+margin-right: 20px;
+}
+.pictures { 
+    float: left;
+    position: relative;
+    margin: 10px;
+}
+ul {
+margin-right: 150px;
+ text-decoration: none;
+}
+.nav-link{
+   color: #666;   
+}
+ul a:hover {
+   color:#4aaaa5;
+}
+
+.jumbotron h3, #name {background: #4aaaa5;
+color: #fff;
+text-align: center;
+font-size: 30px;}
+
+.jumbotron h3 {
+    padding: 10px;
+    position: absolute;
+    bottom: 45px;
+width: 100%;
+}
+#name {
+    width: 300px;
+    float: left;
+    font-weight: 600;
+  line-height: 100px;
+  margin-left: 12%;
+ }
+footer {
+    border-top:5px solid #4aaaa5;
+    line-height: 50px;
+}
